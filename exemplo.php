@@ -6,6 +6,6 @@
 
     $busca = new Search;
 
-    $resultado = $busca->getAddressFromZipcode('38414-434');
+    $resultado = $busca->getAddressFromZipcode('38412-330');
 
     print_r($resultado);
