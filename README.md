@@ -1,2 +1,2 @@
 # digitalcep
-Exercicio composer php. Busca de CEP
+Estudo Composer PHP, busca de CEP.
