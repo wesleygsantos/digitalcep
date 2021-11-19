@@ -1,0 +1,24 @@
+{
+    "name": "wesley/digitalcep",
+    "description": "Busca de CEP online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+           "Search": "src/" 
+        },
+        "psr-4": {
+            "Wesley\\Digitalcep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wesleygsantos",
+            "email": "wesleyg_santos@yahoo.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+    
+}
